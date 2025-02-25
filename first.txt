@@ -1,1 +1,1 @@
-My first workflow
+release v1.0.0
